@@ -1,4 +1,4 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
+baseurl = "www.mad-stat.com/"  # End your URL with a `/` trailing slash.
 title = "MAD-Geral {Matéria de Análise de Dados}"
 copyright = "&copy; 2017 James R. Hunter"
 theme = "hugo-academic"
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "/Users/jameshunter/Documents/MADCourse2/course logo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "madanalisedados@gmail.com"
+  email = "retrojamesbr@gmail.com"
   address = "Rua Pedro de Toledo, 669, 6º Andar Fundos, CEP 04039-032 - SP - Brasil"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
   phone = "+ 55 11 9-5327-5656"
