@@ -1,12 +1,12 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "MAD-Geral {Matéria de Análise de Dados}"
-copyright = "&copy; 2017 James R. Hunter"
-theme = "hugo-academic"
+baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+title = "Academic"
+copyright = "&copy; 2016 Your Name"
+theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "MADSTAT"
+disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Ricardo Sobhie Diaz, M.D., Ph.D. & James R. Hunter"
-  role = "Professor de Infectologia e Pesquisador em Virologia"
-  organization = "Laboratório de Retrovirologia -- UNIFESP"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "/Users/jameshunter/Documents/MADCourse2/course logo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "madanalisedados@gmail.com"
-  address = "Rua Pedro de Toledo, 669, 6º Andar Fundos, CEP 04039-032 - SP - Brasil"
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+ 55 11 9-5327-5656"
-  skype = ""
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -37,11 +37,11 @@ defaultContentLanguageInSubdir = false
 
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "2006-01-02"
+  date_format = "Mon, Jan 2, 2006"
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -126,22 +126,22 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "retrojamesbr@gmail.com"
-    
+    link = "mailto:test@example.org"
+
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/jimhunterbr"
+    link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.com.br/citations?user=3sMfT-kAAAAJ&hl=pt-BR"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/jameshunterbr"
+    link = "//github.com/gcushen"
 
 
 # Navigation Links
