@@ -1,5 +1,5 @@
 baseurl = "www.mad-stat.com/"  # End your URL with a `/` trailing slash.
-title = "MAD-Geral {Matéria de Análise de Dados}"
+title = "MAD-Stat"
 copyright = "&copy; 2017 James R. Hunter"
 theme = "hugo-academic"
 enableEmoji = true

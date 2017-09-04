@@ -1,0 +1,32 @@
+---
+title: "Home Page"
+author: "James R. Hunter"
+date: "4 de Setembro de 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Novo Curso de Matéria de Análise de Dados (MAD)
+
+  - **Quando**
+    - do final de setembro até final de novembro
+    - 8 sessões de 3 horas 
+    - 19h - 22h
+    - Datas exatas a ser divulgados nos próximos dias
+    
+  - **Aberto a Todos Alunos e Profissionais**
+    - Ciências Biomédicas
+    - Administração
+    - Outras Profissões
+    - Alunos, pós-Docs e Professores de outras faculdades
+    
+  - **Novo Abordagem de Estatística e Métodos Quantitativos**
+    - Aprender estatística e métodos de análise de dados no contexto da capacidade moderna dos computadores de hoje
+    
+> Esta matéria fornecerá uma introdução ao raciocínio aplicado estatístico e quantitativo. É uma matéria prática invés de teórica. Ela apresentará habilidades e técnicas fundamentais para uso prático e entendimento da estatística. Os alunos farão análises, avaliar a parte quantitativa dos estudos publicados e conduzir análises de um estudo tirado do trabalho científico do aluno como o projeto final
+  
+  
+  
