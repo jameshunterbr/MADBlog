@@ -1,0 +1,164 @@
+---
+title: Ementa da Matéria
+author: James R. Hunter
+date: '2017-09-13'
+slug: ementa-da-matéria
+categories: []
+tags: [ementa]
+---
+
+# Ementa
+## Matéria de Análise de Dados 
+
+Esta matéria será bem diferente das outras matérias de estatística e análise de dados que vocês utilizaram ou viram no passado. Aqui, nós vamos usar vários meios de aprendizagem para dominar conceitos importantes de análise de dados. 
+
+Este curso fornecerá uma introdução ao raciocínio estatístico aplicado a várias disciplinas. É uma matéria prática ao invés de teórica. Ela apresentará habilidades e técnicas fundamentais para uso prático e entendimento dos estudos científicos e profissionais. Nós desenvolveremos as técnicas e conceitos de análise de dados baseadas em exemplos da literatura nas áreas de biologia, negócios, finanças e outras áreas de atividade profissional. Examinaremos a literatura profissional para entender os tipos de análise que servem ou não.
+
+Os alunos não precisam ter estudado muita matemática anteriormente. Eles vão precisar um conhecimento de algumas ferramentas básicas como o sinal de somatório $, logaritmos, exponenciais e a equação de uma linha reta. Nas semanas iniciais, conduziremos revisões de alguns tópicos básicos tanto quanto uma introdução a programação informacional, um componente de análise de dados extremamente importante no mundo profissional de hoje. Os alunos precisarão ter acesso a um computador conectado a Internet para fazer o download do software denominado “R” e alguns outros softwares e para execução de exercícios da matéria.
+
+Este curso terá quatro pilares principais:
+
+1. Os conceitos principais de estatística
+2. A organização, limpeza e análise prática dos dados 
+3. As ferramentas de programação e informática que apoiarão o manuseio e análise dos dados
+4. Desenvolvimento de um projeto de pesquisa quantitativa particular ou em grupos de 2 ou 3 estudantes.
+
+Além disso, terão ferramentas suplementares para ajuda-lo a entender como organizar e executar as análises e aplicar as técnicas de estatística aos problemas profissionais.
+
+
+# Temas Abordados
+ 
+* O que é estatística? Porque nós a estudamos?
+
+* “R” - Técnicas básicas para uso do software
+
+* Estrutura e desenho dos estudos
+
+* Conhecer os dados; estatística descritiva; visualização dos dados
+
+* Probabilidade
+  – Clássica (de frequências)
+  – Bayesiana
+
+* Distribuições amostrais 
+  – Lei dos Grandes Números;
+  – Teorema do Limite Central
+
+* Técnicas de inferência 
+
+* Correlação e causa
+
+* ANOVA (Análise de Variância)
+
+* Machine Learning
+  – Modelos de Regressão
+  – Modelos de Classificação
+  – Modelos de Clustering
+
+* Estatística não-paramétrica
+
+
+
+# Biografia de James R. Hunter
+
+
+James Hunter trabalha com o Prof. Dr. Ricardo Sobhie Diaz no Laboratório de Retrovirologia sobre questões relativas ao HIV-1 e doenças relacionadas. Ele também é um aluno doutorando na disciplina de Doenças Infecciosas. 
+
+Professor Hunter tem um B.A. e um M.C.P. (Urbanismo) da Universidade Yale nos EUA. Desde 1970, ele ensina matérias sobre métodos quantitativos, estatística e pesquisas operacionais nos EUA, Inglaterra, Canadá e Brasil. Um dos focos do trabalho profissional de Professor Hunter sempre foi o estudo quantitativo dos problemas econômicos, sociais e científicos. Ele mora em Brasil desde 1999 e veio para a UNIFESP em 2014.
+
+# Os Quatro Pilares
+
+**Conceitos Estatísticos**: Os alunos terão acesso a um curso no site https://pt.khanacademy.org/. No site, o curso está conhecido com Data Science para Medicina e Biociências. Vocês podem se inscrever neste site e o Prof. Hunter acompanhará seu progresso com as matérias. Se você já domina esta matéria, consulte com os professores que possam recomendar outros cursos mais avançados. A Fundação Lemann aqui em São Paulo está traduzindo todos os módulos em português. Professor Hunter vai suplementar esses vídeos com outros tópicos adicionais que publicaremos diretamente no Youtube em um canal especial.
+
+**Manuseio e Análise dos Dados**: A maioria das aulas presenciais tratará desse assunto. Vamos aprender como obter dados, organiza-los em um formato que facilite a análise e desenvolver métodos para obter inferências. Na última aula, os alunos apresentarão as pesquisas deles para toda a turma. O propósito da apresentação é de aprender com os colegas e professores como aprimorar os estudos e prepara-los para publicações.
+
+**Ferramentas Informáticas**: Nas aulas iniciais e online, os alunos irão aprender a linguagem e o sistema estatístico “R”. Este sistema tornou-se a ferramenta estatística mais popular nas universidades. Apesar do nome simples, o software é bastante rico em recursos. A curva de aprendizagem inicial é suave. Rapidamente, os alunos estarão escrevendo programas e funções simples, apropriadas para o seu trabalho particular.  
+
+**Projeto de Pesquisa**: Os alunos desenvolverão um projeto de pesquisa quantitativa durante o curso. Este projeto pode ser relacionado ao trabalho da tese ou ao qualquer outro trabalho de pesquisa. Além disso, os professores têm vários conjuntos de dados que os alunos podem desenvolver como pesquisa. 
+
+# Número de Aulas e Compromisso de Horas
+
+Este curso terá 8 aulas de 3 horas. 
+
+Prof. Hunter estará disponível no Laboratório de Retrovirologia da UNIFESP para os alunos individualmente por mais duas horas por semana para consultas sobre projetos e dúvidas sobre a matéria. 
+
+Você precisará investir pelo menos mais 8 a 10 horas por semana para aproveitar todas as aulas do curso.
+
+# Avaliação
+
+* Conjuntos de problemas: 35% da nota final
+
+* Projeto (apresentação): 35% da nota final
+
+* Participação na aula e com os professores: 30% da nota final.
+
+NB. Haverá provas curtas de vez em quando, mas essas são diagnósticas, ajudando o aluno entender o nível do seu próprio domínio sobre a matéria.
+
+# Plano de Aulas
+
+A matéria visa uma aula de palestra e discussão por semana. No total, serão 24 horas de aulas presenciais. A maioria das aulas incluirá uma revisão de um estudo científico para avaliar o uso (ou abuso) da estatística. Alunos prepararão séries de problemas sobre a matéria apresentada a cada duas semanas (4 séries ao todo). 
+
+## Semana 1 
+
+  - Conceitos Básicos da Estatística.
+  - “R” – Como Instalar os *softwares*; Algoritmos
+
+## Semana 2 
+
+  - Probabilidade – a base da estatística; tomada de decisão
+  - Conceitos de *tidy data*; Loops e Controle de Programas
+
+## Semana 3 
+
+  - Estatística Descritiva; Gráficos
+  - “R”– Manuseio dos dados com módulos do *tidyverse*
+
+## Semana 4
+
+  - Entender e construir modelos básicos de regressão linear
+
+## Semana 5
+
+  - Modelos Complexos de Regressão; Covariados; Modelos de Regressão Logísticos
+
+## Semana 6
+
+  - Outros tipos de inferência; quais diferenças existem entre grupos?
+  - Dados categóricos
+
+## Semana 7
+
+  - Modelos preditivos; Comparações múltiplas
+  - Técnicas de amplificação (*bootstrap*)
+
+## Semana 8 
+  - Modelos de machine learning sem supervisão; Análise de *clusters*
+  - Apresentações dos Grupos
+
+# Comunicação e Interação
+
+O professor viabilizará uma variedade de meios de comunicação para os alunos não se sentirem abandonados durante o curso. Primeiramente, o professor se disponibilizará a se encontrar com os alunos informalmente por um período de 2 horas durante a semana para resolver dúvidas sobre a matéria e conteúdo. Além disso, porções chaves das palestras serão gravadas e disponibilizadas para os alunos na internet. Para complementar, o curso terá um repositório no sistema *GitHub* na internet, onde os alunos poderão acessar todas as matérias e todos os scripts usados nas palestras. Este repo terá também um blog com alguns comentários sobre temas importantes e as dúvidas dos alunos.
+
+Bibliografia
+
+Os materiais usados nas aulas (slides, um texto sobre o assunto da aula, etc.) seriam colocados no repo de *Github*. Também, tem uma variedade de textos excelentes sobre estatística, informática e data science utilizando “R”. Aqui temos uma lista de poucos (todos disponíveis na Internet e com preços acessíveis).
+
+* David Diez, Christopher Barr & Mine Çetinkaya-Rundel, *OpenIntro Statistics, 3e* (https://www.openinto.org) 
+* Garrett Grolemund and Hadley Wickham, *R for Data Science* (https://r4ds.had.co.nz)
+* Rafael A. Irizarry and Michael I. Love, *Data Analysis for the Life Sciences* (Leanpub)
+* Chester Ismay, *Getting Used To R, Rstudio, and R Markdown* (https://bookdown.org) 
+* Robert I. Kabacoff, *R in Action: Data analysis and graphics with R 2e* (Manning)
+* Daniel Navarro, *Learning statistics with R: A tutorial for psychology students and other beginners* (http://learningstatisticswithr.com)
+* Roger D. Peng, *R Programming for Data Science* (Leanpub or Bookdown)
+* Roger D. Peng, Sean Kross and Brooke Anderson, *Mastering Software Development in R* (Leanpub or Bookdown)
+* Phillips, *YaRrr!: The Pirate's Guide to R* (http://www.thepiratesguidetor.com)
+* Vickers, *What is a P-Value Anyway?*, (Addison-Wesley)
+* Nina Zumel & John Mount, *Practical Data Science with R* (Manning)
+
+Também, existem muitos livros bons sobre a história e a aplicação da estatística, que valem a pena serem lidos. Todos esses livros são muito bem escritos e podem iluminar sua apreciação sobre estatística.
+
+* Leonard Mlodinow, *O Andar do Bêbado*
+* David Salsburg, *Uma Senhora Toma Chá*
+* Ian Stewart, *17 Equações que Mudaram o Mundo*
+* Peter L. Bernstein, *Desafiando os Deuses: A História do Risco*
+* Randall Munroe, *E Se?: Respostas Científicas para Perguntas Absurdas*
